@@ -41,6 +41,10 @@ a {
 
 header {
     padding: 52px 0px 20px;
+    position: sticky;
+    top: -32px;
+    z-index: 1;
+    background: #fff;
 }
 
 nav {
